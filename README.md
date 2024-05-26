@@ -99,3 +99,5 @@ eb deploy
 ```
 
 Then configure all env properties in the created env of EB
+
+# update .yml files to auto deploy
