@@ -9,11 +9,11 @@ jobs:
   build:
     docker:
       # the base image can run most needed actions with orbs
-      - image: "cimg/node:16"
+      - image: "cimg/node:14.15"
     steps:
       # install node and checkout code
       - node/install:
-          node-version: "16"
+          node-version: "14.15"
       - checkout
       - node/install
       - checkout
@@ -27,8 +27,8 @@ jobs:
           name: Install Node version 16 using NVM
           command: nvm install 16
       - run:
-          name: Use Node version 12
-          command: nvm use 12
+          name: Use Node version 16 using NVM
+          command: nvm use 16
       - run:
           name: Install Front-End Dependencies
           command: |
