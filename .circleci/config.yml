@@ -27,6 +27,9 @@ jobs:
           name: Install Node version 16 using NVM
           command: nvm install 16
       - run:
+          name: Use Node version 12
+          command: nvm use 12
+      - run:
           name: Install Front-End Dependencies
           command: |
             echo "NODE --version" 
