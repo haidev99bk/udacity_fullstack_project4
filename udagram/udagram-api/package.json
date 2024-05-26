@@ -2,7 +2,6 @@
   "name": "udagram-api",
   "version": "2.0.0",
   "description": "",
-  "main": "server.ts",
   "scripts": {
     "start": "node ./www/server.js",
     "start:dev": "node ./www/server.js",
