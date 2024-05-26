@@ -1,3 +1,7 @@
+# INTRO
+
+This application is provided by Udacity. This app is prepared with CI/CD configuration
+
 # AWS
 
 - CORS config
