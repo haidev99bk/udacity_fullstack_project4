@@ -55,7 +55,7 @@ jobs:
           name: Front-End Build
           command: |
             echo "TODO: Build the frontend app"
-            npm use 16
+            nvm use 16
             npm run frontend:build
       # TODO: Build the backend API
       - run:
