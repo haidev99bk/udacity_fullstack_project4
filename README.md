@@ -8,7 +8,7 @@ This application is provided by Udacity. This app is prepared with CI/CD configu
 - FE link: http://myawsbucket-hainv46.s3-website-us-east-1.amazonaws.com/home
 
 - Circle success:
-  ![image][./evidences/circle-success.png]
+  ![Image][/evidences/circleci_success.png]
 
 # AWS
 
