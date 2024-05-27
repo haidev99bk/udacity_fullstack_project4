@@ -5,7 +5,7 @@ This application is provided by Udacity. This app is prepared with CI/CD configu
 # Result Evidences:
 
 - BE link: http://udagram-api-dev5.us-east-1.elasticbeanstalk.com/
-- FE link:
+- FE link: http://myawsbucket-hainv46.s3-website-us-east-1.amazonaws.com/home
 
 # AWS
 
